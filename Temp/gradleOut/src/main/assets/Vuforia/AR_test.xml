@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="kspace" size="0.050000 0.070093" />
+    <ImageTarget name="homuakuma" size="0.150000 0.084375" />
+    <ImageTarget name="homu" size="0.150000 0.080250" />
+  </Tracking>
+</QCARConfig>
